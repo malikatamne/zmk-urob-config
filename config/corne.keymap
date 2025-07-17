@@ -5,7 +5,7 @@
                  LT RT                                                         \
                  LM RM                                                         \
                  LB RB                                                         \
-        SMART_NUM  LH RH &tog Sys                                            \
+        SMART_NUM  LH RH &tog SYS                                            \
     )
 
 #include "zmk-helpers/key-labels/36.h"
